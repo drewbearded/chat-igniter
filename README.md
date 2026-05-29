@@ -1,6 +1,6 @@
 # Chat Igniter 🔥
 
-Never stare at a quiet chat again. Instant engagement scripts for Twitch streamers.
+Never stare at a quiet chat again. Instant engagement scripts for Twitch/YouTube streamers.
 
 ## Deploy to Vercel (5 minutes)
 
